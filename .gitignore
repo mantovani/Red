@@ -1,3 +1,4 @@
+.idea
 /blib/
 /src/*.o
 /src/Makefile
